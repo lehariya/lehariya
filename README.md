@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E6E6FA&center=true&vCenter=true&random=false&width=435&lines=Shaik+Lehariya+Baanu" alt="Typing SVG" />
+  </a>
+</p>
 
 <h1 align="center">
   <font color="red">Welcome to my GitHub - I'm Shaik Lehariya Banu </font>
