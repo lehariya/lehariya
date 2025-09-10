@@ -48,6 +48,7 @@
 🚀 About Me
 
 🎓 I’m a Final year B.Tech student in Cyber Security.
+
 💻 Proficient in C, Python, Java, and full-stack development (React, Angular, Node.js, MongoDB, SQL).
 
 ---
@@ -90,6 +91,7 @@
 🎯 Interests
 
 🛡 Cyber Security
+
 📊 Data Science
 
 🤖 Machine Learning
@@ -114,7 +116,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Issues,Experience,Stars" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=Reviews" />
 </p>
