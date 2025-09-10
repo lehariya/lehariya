@@ -24,9 +24,10 @@
 🎤 Press & Media Lead – TECHNOVA 2025, managing branding and communication
 
 🏅 Recognized by Limca Book of Records through Toastmasters for communication excellence
+
 ---
 
-<### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -42,6 +43,7 @@
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehariya&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
 </p>
+---
 
 🚀 About Me
 
@@ -49,6 +51,7 @@
 💻 Proficient in C, Python, Java, and full-stack development (React, Angular, Node.js, MongoDB, SQL).
 
 ---
+
 # 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -81,6 +84,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
 🎯 Interests
@@ -93,7 +97,7 @@
 ✍️ Random Dev Quote
 "Programs must be written for people to read, and only incidentally for machines to execute".  
                                                                             - Harold Abelson
-                                                                            ---
+---
 
 # 🏆 GitHub Trophies
 
