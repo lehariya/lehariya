@@ -98,16 +98,12 @@
 
 📷 Photography
 
-✍️ Random Dev Quote
+# ✍️ Random Dev Quote
+
 <p align="center">
-  <i style="color:#00e6e6; font-size:18px;">
-    “Programs must be written for people to read, and only incidentally for machines to execute.”
-  </i>
-  <br>
-  <span style="color:#ff4da6; font-weight:bold;">
-    - Harold Abelson
-  </span>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
+
 
 ---
 
