@@ -27,13 +27,24 @@
 
 🏅 Recognized by Limca Book of Records through Toastmasters for communication excellence
 
+### 📊 GitHub Stats:
 
-I'm pursuing my 3rd year B.Tech in Cyber Security.I have experience in programming (C,Python) and web development(HTML,CSS,JavaScript).
+<p align="center">
+  <!-- GitHub Summary Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="GitHub Stats"/>
+</p>
 
-Experience:
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
--> Cyber Security Intern at EduSkills with Palo Alto Networks.
--> Doing project in SAP in Microsoft.
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+
 
 projects:
 -> Phishing Website:The website is used to find whether the website phishing or not.
@@ -47,7 +58,7 @@ Achievements:
 Let's collaborate on exciting projects!
 
 
-# # 💻 Tech Stack
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -81,7 +92,7 @@ Let's collaborate on exciting projects!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# # # 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Issues,Experience,Stars" />
