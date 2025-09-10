@@ -1,8 +1,16 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E6E6FA&center=true&vCenter=true&random=false&width=435&lines=Shaik+Lehariya+Baanu" alt="Typing SVG" />
-  </a>
+<<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="500" height="60">
+    <defs>
+      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#00FF7F"/>
+        <stop offset="100%" stop-color="#32CD32"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Fira Code, monospace" font-size="28" font-weight="600" fill="url(#gradient)">
+      Welcome to my GitHub - I'm Shaik Lehariya Banu
+  </svg>
 </p>
+
 
 <h1 align="center">
   <font color="red">Welcome to my GitHub - I'm Shaik Lehariya Banu </font>
