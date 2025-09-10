@@ -10,6 +10,16 @@
 - 📫 Reach me on LinkedIn if you’re brave enough: [LinkedIn](https://www.linkedin.com/in/lehariya-banu)
 - 📧 Old-school? Mail me: lehariyabanu@gmail.com
 
+🌟 Highlights
+
+🏆 HackWithInfy 2025 Finalist – Top 6 out of 200,000+ participants
+🎓 Infosys Springboard Internship (Nov 2024 – Jan 2025) → Built BuddyBoard (Angular-based study platform)
+🔐 Cyber Security Intern – Palo Alto Networks (EduSkills)
+🤖 Projects ranging from DeepFake Detection to Smart Agriculture AI Assistants
+🗣️ Class Representative, bridging communication between faculty and peers while building leadership skills
+🎤 Press & Media Lead – TECHNOVA 2025, managing branding and communication
+🏅 Recognized by Limca Book of Records through Toastmasters for communication excellence
+
 
 I'm pursuing my 3rd year B.Tech in Cyber Security.I have experience in programming (C,Python) and web development(HTML,CSS,JavaScript).
 
