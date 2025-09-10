@@ -13,51 +13,42 @@
 
 # 🌟 Highlights
 
-🏆 HackWithInfy 2025 Finalist – Top 6 out of 200,000+ participants
-
-🎓 Infosys Springboard Internship (Nov 2024 – Jan 2025) → Built BuddyBoard (Angular-based study platform)
+🎓  Octanet Internship ( May 2024 - July 2024) → Developed a clean and intuitive user interface(Using html,css and java script)
 
 🔐 Cyber Security Intern – Palo Alto Networks (EduSkills)
 
 🤖 Projects ranging from DeepFake Detection to Smart Agriculture AI Assistants
 
-🗣️ Class Representative, bridging communication between faculty and peers while building leadership skills
+🗣️ Member of IET(Institution of Engineering and Technology),Its purpose is to inspire, inform, and influence the global engineering and technology
 
 🎤 Press & Media Lead – TECHNOVA 2025, managing branding and communication
 
 🏅 Recognized by Limca Book of Records through Toastmasters for communication excellence
+---
 
-### 📊 GitHub Stats:
+<### 📊 GitHub Stats:
 
 <p align="center">
-  <!-- GitHub Summary Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="GitHub Stats"/>
+  <!-- GitHub Stats Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lehariya&theme=github_dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehariya&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehariya&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
 </p>
 
+🚀 About Me
 
+🎓 I’m a Final year B.Tech student in Cyber Security.
+💻 Proficient in C, Python, Java, and full-stack development (React, Angular, Node.js, MongoDB, SQL).
 
-projects:
--> Phishing Website:The website is used to find whether the website phishing or not.
-
--> Employee Attrition Model: Machine learning model to improve employeem retention.
-
-Skills:
--> Cybersecurity,DataStructure,Full Stack Development,SQL,MongoDB.
-Achievements:
-->HackerRank Stars and LeetCode badges.
-Let's collaborate on exciting projects!
-
-
+---
 # 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -90,7 +81,19 @@ Let's collaborate on exciting projects!
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
+🎯 Interests
+
+🛡 Cyber Security
+📊 Data Science
+🤖 Machine Learning
+📷 Photography
+
+✍️ Random Dev Quote
+"Programs must be written for people to read, and only incidentally for machines to execute".  
+                                                                            - Harold Abelson
+                                                                            ---
 
 # 🏆 GitHub Trophies
 
