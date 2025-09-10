@@ -7,8 +7,8 @@
 - Obsessed with finding that one line of code breaking everything in full-stack projects.
 - 🌱 Dipping toes in Blockchain & Web3.
 - 💞️ Open to collabs in Machine Learning, Cybersecurity, or anything that comes with a free headache lol.
-- 📫 Reach me on LinkedIn if you’re brave enough: [LinkedIn](https://www.linkedin.com/in/ishrat-noori)
-- 📧 Old-school? Mail me: ishratnoori18@gmail.com
+- 📫 Reach me on LinkedIn if you’re brave enough: [LinkedIn](https://www.linkedin.com/in/lehariya-banu)
+- 📧 Old-school? Mail me: lehariyabanu@gmail.com
 
 
 I'm pursuing my 3rd year B.Tech in Cyber Security.I have experience in programming (C,Python) and web development(HTML,CSS,JavaScript).
@@ -30,7 +30,6 @@ Achievements:
 Let's collaborate on exciting projects!
 
 
-## 💻 Tech Stack
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
