@@ -7,17 +7,23 @@
 - Obsessed with finding that one line of code breaking everything in full-stack projects.
 - 🌱 Dipping toes in Blockchain & Web3.
 - 💞️ Open to collabs in Machine Learning, Cybersecurity, or anything that comes with a free headache lol.
-- 📫 Reach me on LinkedIn if you’re brave enough: [LinkedIn](https://www.linkedin.com/in/lehariya-banu)
+- 📫 Reach me on LinkedIn if you’re brave enough: [LinkedIn](https://www.linkedin.com/in/lehariya-banu-08b7352a2/)
 - 📧 Old-school? Mail me: lehariyabanu@gmail.com
 
 🌟 Highlights
 
 🏆 HackWithInfy 2025 Finalist – Top 6 out of 200,000+ participants
+
 🎓 Infosys Springboard Internship (Nov 2024 – Jan 2025) → Built BuddyBoard (Angular-based study platform)
+
 🔐 Cyber Security Intern – Palo Alto Networks (EduSkills)
+
 🤖 Projects ranging from DeepFake Detection to Smart Agriculture AI Assistants
+
 🗣️ Class Representative, bridging communication between faculty and peers while building leadership skills
+
 🎤 Press & Media Lead – TECHNOVA 2025, managing branding and communication
+
 🏅 Recognized by Limca Book of Records through Toastmasters for communication excellence
 
 
