@@ -3,21 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=32CD32&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+-+I'm+Shaik+Lehariya+Banu" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">
-  <font color="red">Welcome to my GitHub - I'm Shaik Lehariya Banu </font>
-</h1>
+👋 Hi, I’m Shaik Lehariya Banu – probably debugging something right now.
+- Obsessed with finding that one line of code breaking everything in full-stack projects.
+- 🌱 Dipping toes in Blockchain & Web3.
+- 💞️ Open to collabs in Machine Learning, Cybersecurity, or anything that comes with a free headache lol.
+- 📫 Reach me on LinkedIn if you’re brave enough: [LinkedIn](https://www.linkedin.com/in/ishrat-noori)
+- 📧 Old-school? Mail me: ishratnoori18@gmail.com
 
-->👋 Hi, I’m @lehariya - probably debugging something right now.
-
--> 👀 I’m Obsessed with finding that one line code breaking everything in full-stack projects.
-
--> 🌱 I’m currently "learning" Data Science. 
-
--> 💞️ I’m looking to collaborate machine learning,cybersecurity or anything that promises bugs(wishful thinking,I know heh).
-
--> 📫 How to reach me on LinkedIn if you're brave enough:www.linkedin.com/in/lehariya-banu-08b7352a2
-
--> 📧 lehariyabanu@gmail.com
 
 I'm pursuing my 3rd year B.Tech in Cyber Security.I have experience in programming (C,Python) and web development(HTML,CSS,JavaScript).
 
