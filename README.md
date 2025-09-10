@@ -91,12 +91,22 @@
 
 🛡 Cyber Security
 📊 Data Science
+
 🤖 Machine Learning
+
 📷 Photography
 
 ✍️ Random Dev Quote
-"Programs must be written for people to read, and only incidentally for machines to execute".  
-                                                                            - Harold Abelson
+<p align="center">
+  <i style="color:#00e6e6; font-size:18px;">
+    “Programs must be written for people to read, and only incidentally for machines to execute.”
+  </i>
+  <br>
+  <span style="color:#ff4da6; font-weight:bold;">
+    - Harold Abelson
+  </span>
+</p>
+
 ---
 
 # 🏆 GitHub Trophies
