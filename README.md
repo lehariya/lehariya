@@ -11,7 +11,7 @@
 - 📧 Old-school? Mail me: lehariyabanu@gmail.com
 - - -
 
-🌟 Highlights
+# 🌟 Highlights
 
 🏆 HackWithInfy 2025 Finalist – Top 6 out of 200,000+ participants
 
@@ -81,7 +81,7 @@ Let's collaborate on exciting projects!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Issues,Experience,Stars" />
