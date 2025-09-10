@@ -1,29 +1,8 @@
+
+
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #00FF7F, #32CD32); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-weight: bold; 
-               font-size: 32px;
-               display: inline-block;
-               white-space: nowrap;
-               overflow: hidden;
-               border-right: .15em solid #32CD32;
-               animation: typing 5s steps(40, end), blink-caret .75s step-end infinite;">
-    Welcome to my GitHub - I'm Shaik Lehariya Banu
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Shaik+Lehariya+Banu" alt="Typing SVG" />
 </h1>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #32CD32; }
-}
-</style>
 
 <h1 align="center">
   <font color="red">Welcome to my GitHub - I'm Shaik Lehariya Banu </font>
