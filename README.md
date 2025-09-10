@@ -48,3 +48,6 @@ Let's collaborate on exciting projects!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
