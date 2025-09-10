@@ -1,16 +1,29 @@
-<<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="500" height="60">
-    <defs>
-      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#00FF7F"/>
-        <stop offset="100%" stop-color="#32CD32"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Fira Code, monospace" font-size="28" font-weight="600" fill="url(#gradient)">
-      Welcome to my GitHub - I'm Shaik Lehariya Banu
-  </svg>
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00FF7F, #32CD32); 
+               -webkit-background-clip: text; 
+               color: transparent; 
+               font-weight: bold; 
+               font-size: 32px;
+               display: inline-block;
+               white-space: nowrap;
+               overflow: hidden;
+               border-right: .15em solid #32CD32;
+               animation: typing 5s steps(40, end), blink-caret .75s step-end infinite;">
+    Welcome to my GitHub - I'm Shaik Lehariya Banu
+  </span>
+</h1>
 
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #32CD32; }
+}
+</style>
 
 <h1 align="center">
   <font color="red">Welcome to my GitHub - I'm Shaik Lehariya Banu </font>
