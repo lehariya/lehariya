@@ -109,12 +109,9 @@
 
 # 🏆 GitHub Trophies
 
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Issues,Experience,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,PullRequest" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=Followers,Issues,Experience,Stars,Reviews" />
 </p>
-
-
