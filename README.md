@@ -66,19 +66,10 @@ Let's collaborate on exciting projects!
 
 ## 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=MultiLanguage" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Repositories" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Commits" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=PullRequest" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Followers" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Issues" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Experience" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Stars" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Issues,Experience,Stars" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Reviews" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&margin-w=10&margin-h=10&title=Reviews" />
 </p>
-
-
