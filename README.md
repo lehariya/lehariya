@@ -49,5 +49,20 @@ Let's collaborate on exciting projects!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=MultiLanguage" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Experience" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&title=Reviews" />
+</p>
 
