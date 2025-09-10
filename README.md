@@ -1,4 +1,9 @@
--> 👋 Hi, I’m @lehariya - probably debugging something right now.
+
+<h1 align="center">
+  <font color="red">Welcome to my GitHub - I'm Shaik Lehariya Banu </font>
+</h1>
+
+->👋 Hi, I’m @lehariya - probably debugging something right now.
 
 -> 👀 I’m Obsessed with finding that one line code breaking everything in full-stack projects.
 
