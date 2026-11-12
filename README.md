@@ -107,15 +107,3 @@
 
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <!-- Top Row: 8 trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Issues,Experience,Stars" />
-</p>
-
-<p align="center">
-  <!-- Bottom Row: 1 trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=lehariya&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&title=Reviews" />
-</p>
